@@ -36,7 +36,7 @@ Output (ASCII):
 
 ## Project Structure  
 - ascii_converter.py   (Main script)  
-- example.jpg          (Example image)  
+- example.jpg          (Pfinal.jpg)  
 - README.md            (Documentation)  
 
 ## Customization  
